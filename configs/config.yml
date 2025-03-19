@@ -1,0 +1,127 @@
+# Weights & Biases
+wandb:
+    entity: 
+    project: 
+    id: 
+    resume: never
+    log_model: all
+
+env:
+    # Change WANDB_MODE to dryrun for development/debugging
+    WANDB_MODE: dryrun
+    # WANDB_MODE: online
+
+model:
+  lm_name_or_path: "aya-expanse-8b"
+  speech_model_name_or_path: "whisper-large-v2"
+  audio_model_name_or_path: 
+  freeze_speech_model: True
+  freeze_lm: True
+  freeze_audio_model: True
+  # speechlm_checkpoint: 
+
+  speech_model_layer: 6
+  speech_model_return_last: True
+
+  is_qformer: True
+  num_speech_query_token: 1
+  freeze_speech_QFormer: False
+  is_window_level_qformer: True
+  second_per_window: 0.33333
+  second_stride: 0.33333
+
+  is_transformer: False
+  transformer_d_model: 512
+  num_transformer_layers: 2
+  num_transformer_heads: 4
+
+  slm_proj_ckpt:
+  freeze_slm_proj_ckpt: False
+
+  peft: True
+  peft_config:
+    lora: True
+    inference_mode: False
+    r: 8
+    target_modules: ["q_proj", "v_proj", "k_proj", "o_proj"]
+    lora_alpha: 32
+    lora_dropout: 0.1
+
+  task_batching: False
+  dynamic_batching: True
+
+
+dataset:
+  is_hf: False
+  is_json: False
+  is_jsonl: False
+  is_tsv: False
+  hf_dataset_name_or_path: 
+  train_dataset_path: 
+  dev_dataset_path: 
+  test_dataset_path:
+  limit_dev_dataset: 100
+  shuffle_train_dataset: False
+  shuffle_dev_dataset: False
+  shuffle_test_dataset: False
+  test_set_tasks:
+    generation_tasks: ['asr', 'QA', 'translation']
+    likelihood_based_tasks: ['lang_id']
+    lang_id_options: ["English", "Japanese", "Turkish", "Indonesian", "German", "Arabic"]
+  labels:
+    path_label: 'path'
+    audio_label: 'audio'
+    text_output_label: 'text'
+    text_input_label: 'text'
+    question_input_label: 'Q'
+    task_label: 'task'
+
+
+
+prompts:
+  train_prompts_path: 
+  test_prompts_path: prompts/test_prompt.json
+  multi_prompt: True
+  prompt_template: "<BOS_TOKEN><|START_OF_TURN_TOKEN|><|USER_TOKEN|>{}<|END_OF_TURN_TOKEN|><|START_OF_TURN_TOKEN|><|CHATBOT_TOKEN|>"
+  max_txt_len: 300
+  end_sym: "<|END_OF_TURN_TOKEN|>"
+
+
+generation:
+  max_new_tokens: 200
+  num_beams: 4
+  do_sample: True
+  min_length: 1
+  temperature: 1.0
+  top_p: 0.9
+  repetition_penalty: 1.0
+  length_penalty: 1.0
+
+
+lightningargs:
+  output_dir: 
+  min_epochs: 
+  max_epochs: 
+  val_check_interval: 
+  reload_dataloaders_every_n_epochs: 1
+  limit_train_batches: 
+  check_val_every_n_epoch:
+  accumulate_grad_batches: 4
+  use_distributed_sampler: False
+  dataloader_num_workers: 4
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  accelerator: 'gpu'
+  devices: 1
+  num_nodes: 1
+  strategy: auto
+  optims:
+    max_epoch: 30
+    warmup_epochs: 1
+    warmup_steps: 3000
+    iters_per_epoch: 3000
+    warmup_start_lr: 1e-6
+    init_lr: 3e-5
+    min_lr: 1e-5
+    weight_decay: 0.05
+    beta2: 0.999

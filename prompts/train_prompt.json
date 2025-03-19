@@ -1,0 +1,400 @@
+{
+    "asr": [
+        "<Speech><SpeechHere></Speech> Can you transcribe the speech into a written format?",
+        "<Speech><SpeechHere></Speech> Listen to the speech and write down its content.",
+        "<Speech><SpeechHere></Speech> What is the content of the speech you heard?",
+        "<Speech><SpeechHere></Speech> Please write down the transcription of the speech.",
+        "<Speech><SpeechHere></Speech> Please transcribe the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Write down the content of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Can you write down the transcription of the speech?",
+        "<Speech><SpeechHere></Speech> Put the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Please help me to transcribe the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Recognize the content of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Can you recognize what you heard in the speech?",
+        "<Speech><SpeechHere></Speech> Recognize the speech and write it down in a written format.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and recognize its content.",
+        "<Speech><SpeechHere></Speech> Give me the transcription of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Recognize the speech and give me the transcription."
+    ],
+    "asr_en": [
+        "<Speech><SpeechHere></Speech> Can you transcribe the speech into a written format?",
+        "<Speech><SpeechHere></Speech> Listen to the speech and write down its content.",
+        "<Speech><SpeechHere></Speech> What is the content of the speech you heard?",
+        "<Speech><SpeechHere></Speech> Please write down the transcription of the speech.",
+        "<Speech><SpeechHere></Speech> Please transcribe the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Write down the content of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Can you write down the transcription of the speech?",
+        "<Speech><SpeechHere></Speech> Put the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Please help me to transcribe the speech into a written format.",
+        "<Speech><SpeechHere></Speech> Recognize the content of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Can you recognize what you heard in the speech?",
+        "<Speech><SpeechHere></Speech> Recognize the speech and write it down in a written format.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and recognize its content.",
+        "<Speech><SpeechHere></Speech> Give me the transcription of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Recognize the speech and give me the transcription."
+    ],
+    "lang_id": [
+        "<Speech><SpeechHere></Speech> Listen to the speech and write which language is being spoken.",
+        "<Speech><SpeechHere></Speech> Please write down the language of the speech.",
+        "<Speech><SpeechHere></Speech> Write down the language of the speech you heard.",
+        "<Speech><SpeechHere></Speech> Konuşmayı dinleyin ve hangi dilin konuşulduğunu yazın.",
+        "<Speech><SpeechHere></Speech> Lütfen konuşmanın dilini yazınız.",
+        "<Speech><SpeechHere></Speech> Duyduğunuz konuşmanın dilini yazınız.",
+        "<Speech><SpeechHere></Speech> Luister naar de toespraak en schrijf op welke taal er wordt gesproken.",
+        "<Speech><SpeechHere></Speech> Schrijf de taal van de toespraak op.",
+        "<Speech><SpeechHere></Speech> Schrijf de taal op van de toespraak die je hebt gehoord.",
+        "<Speech><SpeechHere></Speech> Écoutez le discours et écrivez quelle langue est parlée.",
+        "<Speech><SpeechHere></Speech> Please write down the language of the speech.",
+        "<Speech><SpeechHere></Speech> Notez la langue du discours que vous avez entendu."
+    ],
+    "asr_fr": [
+        "<Speech><SpeechHere></Speech> Pouvez-vous retranscrire le discours sous forme écrite ?",
+        "<Speech><SpeechHere></Speech> Écoutez le discours et notez son contenu.",
+        "<Speech><SpeechHere></Speech> Quel est le contenu du discours que vous avez entendu ?",
+        "<Speech><SpeechHere></Speech> Veuillez noter la transcription du discours.",
+        "<Speech><SpeechHere></Speech> Veuillez transcrire le discours sous forme écrite.",
+        "<Speech><SpeechHere></Speech> Notez le contenu du discours que vous avez entendu.",
+        "<Speech><SpeechHere></Speech> Pouvez-vous écrire la transcription du discours ?",
+        "<Speech><SpeechHere></Speech> Mettez le discours sous forme écrite.",
+        "<Speech><SpeechHere></Speech> S'il vous plaît, aidez-moi à transcrire le discours sous forme écrite.",
+        "<Speech><SpeechHere></Speech> Reconnaissez le contenu du discours que vous avez entendu.",
+        "<Speech><SpeechHere></Speech> Pouvez-vous reconnaître ce que vous avez entendu dans le discours ?",
+        "<Speech><SpeechHere></Speech> Reconnaissez le discours et écrivez-le sous forme écrite.",
+        "<Speech><SpeechHere></Speech> Écoutez le discours et reconnaissez son contenu.",
+        "<Speech><SpeechHere></Speech> Donnez-moi la transcription du discours que vous avez entendu.",
+        "<Speech><SpeechHere></Speech> Reconnaissez le discours et donnez-moi la transcription."
+    ],
+    "asr_nl": [
+        "<Speech><SpeechHere></Speech> Kunt u de toespraak in geschreven vorm omzetten?",
+        "<Speech><SpeechHere></Speech> Luister naar de toespraak en schrijf de inhoud ervan op.",
+        "<Speech><SpeechHere></Speech> Wat is de inhoud van de toespraak die u hebt gehoord?",
+        "<Speech><SpeechHere></Speech> Schrijf de transcriptie van de toespraak op.",
+        "<Speech><SpeechHere></Speech> Gelieve de toespraak in geschreven vorm te transcriberen.",
+        "<Speech><SpeechHere></Speech> Schrijf de inhoud op van de toespraak die je hebt gehoord.",
+        "<Speech><SpeechHere></Speech> Kunt u de transcriptie van de toespraak opschrijven?",
+        "<Speech><SpeechHere></Speech> Zet de toespraak in een geschreven vorm.",
+        "<Speech><SpeechHere></Speech> Help me alstublieft om de toespraak in geschreven vorm te transcriberen.",
+        "<Speech><SpeechHere></Speech> Herken de inhoud van de toespraak die je hebt gehoord.",
+        "<Speech><SpeechHere></Speech> Herken jij wat je hoorde in de toespraak?",
+        "<Speech><SpeechHere></Speech> Herken de toespraak en schrijf deze op in een geschreven formaat.",
+        "<Speech><SpeechHere></Speech> Luister naar de toespraak en herken de inhoud ervan.",
+        "<Speech><SpeechHere></Speech> Geef me de transcriptie van de toespraak die je hebt gehoord.",
+        "<Speech><SpeechHere></Speech> Herken de toespraak en geef mij de transcriptie."
+    ],
+    "asr_tr": [
+        "<Speech><SpeechHere></Speech> Konuşmayı yazılı formata çevirebilir misin?",
+        "<Speech><SpeechHere></Speech> Konuşmayı dinleyin ve içeriğini yaz.",
+        "<Speech><SpeechHere></Speech> Dinlediğin konuşmanın içeriği nedir?",
+        "<Speech><SpeechHere></Speech> Lütfen konuşmanın içeriğini yaz.",
+        "<Speech><SpeechHere></Speech> Lütfen konuşmayı yazılı bir formata dönüştür.",
+        "<Speech><SpeechHere></Speech> Duyduğunuz konuşmanın içeriğini yaz.",
+        "<Speech><SpeechHere></Speech> Konuşmanın transkripsiyonunu yazar mısın?",
+        "<Speech><SpeechHere></Speech> Konuşmayı yazılı bir formata dönüştür.",
+        "<Speech><SpeechHere></Speech> Lütfen konuşmayı yazılı formata dönüştürmemde bana yardım et.",
+        "<Speech><SpeechHere></Speech> Konuşmada ne duyduğunu tanıyabiliyor musunuz?",
+        "<Speech><SpeechHere></Speech> Konuşmayı yazılı hale getir.",
+        "<Speech><SpeechHere></Speech> Bana duyduğun konuşmayi yaz.",
+        "<Speech><SpeechHere></Speech> Konuşmayı anla ve bana yazili halini ver."
+    ],
+    "asr_ja":[
+        "<Speech><SpeechHere></Speech> スピーチを書き起こしてもらえますか?",
+        "<Speech><SpeechHere></Speech> スピーチを聞いてその内容を書き留めてください。",
+        "<Speech><SpeechHere></Speech> あなたが聞いたスピーチの内容は何ですか？",
+        "<Speech><SpeechHere></Speech> スピーチの書き起こしを書き留めてください。",
+        "<Speech><SpeechHere></Speech> スピーチを書き起こして書き起こしてください",
+        "<Speech><SpeechHere></Speech> 聞いたスピーチの内容を書き留めてください。",
+        "<Speech><SpeechHere></Speech> スピーチの書き起こしを書いていただけますか？",
+        "<Speech><SpeechHere></Speech> スピーチを文章形式にまとめます。",
+        "<Speech><SpeechHere></Speech> スピーチを文章形式に書き起こすのを手伝ってください。",
+        "<Speech><SpeechHere></Speech> 聞いたスピーチの内容を認識します。",
+        "<Speech><SpeechHere></Speech> スピーチで聞いた内容を理解できましたか?",
+        "<Speech><SpeechHere></Speech> スピーチを認識し、それを書面形式で書き留めます。",
+        "<Speech><SpeechHere></Speech> スピーチを聞いてその内容を認識します。",
+        "<Speech><SpeechHere></Speech> あなたが聞いたスピーチの書き起こしをください。",
+        "<Speech><SpeechHere></Speech> スピーチを認識して書き起こしをください。"
+    ],
+    "asr_id":[
+        "<Speech><SpeechHere></Speech> Bisakah Anda menyalin pidato tersebut ke dalam format tertulis?",
+        "<Speech><SpeechHere></Speech> Dengarkan pidatonya dan tuliskan isinya.",
+        "<Speech><SpeechHere></Speech> Apa isi pidato yang Anda dengar?",
+        "<Speech><SpeechHere></Speech> Tolong tuliskan transkripsi pidatonya.",
+        "<Speech><SpeechHere></Speech> Harap transkripsikan pidato tersebut ke dalam format tertulis.",
+        "<Speech><SpeechHere></Speech> Tuliskan isi pidato yang Anda dengar.",
+        "<Speech><SpeechHere></Speech> Bisakah Anda menuliskan transkripsi pidatonya?",
+        "<Speech><SpeechHere></Speech> Tuangkanlah pidato tersebut ke dalam format tertulis.",
+        "<Speech><SpeechHere></Speech> Tolong bantu saya untuk menyalin pidato tersebut ke dalam bentuk tulisan.",
+        "<Speech><SpeechHere></Speech> Kenali isi pidato yang Anda dengar.",
+        "<Speech><SpeechHere></Speech> Dapatkah Anda mengenali apa yang Anda dengar dalam pidato tersebut?",
+        "<Speech><SpeechHere></Speech> Kenali pidato tersebut dan tulislah dalam format tertulis.",
+        "<Speech><SpeechHere></Speech> Dengarkan pidatonya dan kenali isinya.",
+        "<Speech><SpeechHere></Speech> Berikan saya transkripsi pidato yang Anda dengar.",
+        "<Speech><SpeechHere></Speech> Kenali pidatonya dan berikan saya transkripsinya."   
+    ],
+    "asr_ar":[
+        "<Speech><SpeechHere></Speech> هل يمكنك تحويل الكلام إلى صيغة مكتوبة؟",
+        "<Speech><SpeechHere></Speech> استمع إلى الخطاب واكتب محتواه.",
+        "<Speech><SpeechHere></Speech> ما هو محتوى الخطاب الذي سمعته؟",
+        "<Speech><SpeechHere></Speech> يرجى كتابة نص الخطاب.",
+        "<Speech><SpeechHere></Speech> يرجى تحويل الخطاب إلى صيغة مكتوبة.",
+        "<Speech><SpeechHere></Speech> اكتب محتوى الخطاب الذي سمعته.",
+        "<Speech><SpeechHere></Speech> هل بإمكانك كتابة نص الخطاب؟",
+        "<Speech><SpeechHere></Speech> ضع الخطاب في صيغة مكتوبة.",
+        "<Speech><SpeechHere></Speech> أرجو مساعدتي في تحويل الخطاب إلى صيغة مكتوبة.",
+        "<Speech><SpeechHere></Speech> تعرف على محتوى الكلام الذي سمعته.",
+        "<Speech><SpeechHere></Speech> هل تستطيع التعرف على ما سمعته في الخطاب؟",
+        "<Speech><SpeechHere></Speech> تعرف على الكلام واكتبه بصيغة مكتوبة.",
+        "<Speech><SpeechHere></Speech> استمع إلى الكلام وتعرف على محتواه.",
+        "<Speech><SpeechHere></Speech> أعطني نص الخطاب الذي سمعته.",
+        "<Speech><SpeechHere></Speech> تعرف على الكلام وأعطني النص."  
+    ],
+    "asr_zh": [
+        "<Speech><SpeechHere></Speech> 前面的语音说了什么？",
+        "<Speech><SpeechHere></Speech> 请将语音中的内容写下来。",
+        "<Speech><SpeechHere></Speech> 请识别这段中文语音。",
+        "<Speech><SpeechHere></Speech> 听前面的音频，写出对方说的内容。",
+        "<Speech><SpeechHere></Speech> 写下你听到的内容。",
+        "<Speech><SpeechHere></Speech> 请记下语音中人说的话。",
+        "<Speech><SpeechHere></Speech> 仔细听这段语音，记下语音中的话",
+        "<Speech><SpeechHere></Speech> 将你听到的话写下来",
+        "<Speech><SpeechHere></Speech> 这个人说了什么？请记下来。",
+        "<Speech><SpeechHere></Speech> 请将语音转换为文字",
+        "<Speech><SpeechHere></Speech> 请识别这个人说的内容"
+    ],
+    "asr_de": [
+        "<Speech><SpeechHere></Speech> Können Sie die Rede in ein schriftliches Format übertragen?",
+        "<Speech><SpeechHere></Speech> Hören Sie sich die Rede an und schreiben Sie ihren Inhalt auf.",
+        "<Speech><SpeechHere></Speech> Bitte notieren Sie die Transkription der Rede.",
+        "<Speech><SpeechHere></Speech> Geben Sie mir die Transkription der Rede, die Sie gehört haben.",
+        "<Speech><SpeechHere></Speech> Was hat dieser Mann gesagt? Bitte schreiben Sie es auf.",
+        "<Speech><SpeechHere></Speech> Können Sie die Transkription der Rede aufschreiben?",
+        "<Speech><SpeechHere></Speech> Hören Sie der Stimme aufmerksam zu und notieren Sie die Wörter in der Stimme",
+        "<Speech><SpeechHere></Speech> Schreiben Sie auf, was Sie hören.",
+        "<Speech><SpeechHere></Speech> Bitte Sprache in Text umwandeln.",
+        "<Speech><SpeechHere></Speech> Erkennen Sie den Inhalt der Rede, die Sie gehört haben."
+    ],
+    "translation_ec": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into Chinese?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into Chinese.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into Chinese.",
+        "<Speech><SpeechHere></Speech> Give me the Chinese translation of this speech.",
+        "<Speech><SpeechHere></Speech> Could you please provide a Chinese translation for the speech?",
+        "<Speech><SpeechHere></Speech> Would you be willing to translate the speech into Chinese for me?",
+        "<Speech><SpeechHere></Speech> Would you be able to render the speech in Chinese?",
+        "<Speech><SpeechHere></Speech> Could you assist me in translating the speech into Chinese?",
+        "<Speech><SpeechHere></Speech> Can you help me convert the speech into Chinese text?",
+        "<Speech><SpeechHere></Speech> Please convert the speech into Chinese text.",
+        "<Speech><SpeechHere></Speech> 请将这段语音的内容翻译成中文。",
+        "<Speech><SpeechHere></Speech> 你能把这段语音用中文表达出来吗？",
+        "<Speech><SpeechHere></Speech> 请将你听到的语音用中文写出来。"
+    ],
+    "translation_en_de": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into German?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into German.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into German.",
+        "<Speech><SpeechHere></Speech> Give me the German translation of this speech.",
+        "<Speech><SpeechHere></Speech> Können Sie die Rede ins Deutsche übersetzen?",
+        "<Speech><SpeechHere></Speech> Übersetzen Sie die gehörte Rede bitte ins Deutsche.",
+        "<Speech><SpeechHere></Speech> Hören Sie sich die Rede an und übersetzen Sie sie ins Deutsche.",
+        "<Speech><SpeechHere></Speech> Geben Sie mir die deutsche Übersetzung dieser Rede."
+
+    ],
+    "translation_de_en": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into English?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into English.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into English.",
+        "<Speech><SpeechHere></Speech> Give me the English translation of this speech.",
+        "<Speech><SpeechHere></Speech> Können Sie die Rede ins Englische übersetzen?",
+        "<Speech><SpeechHere></Speech> Bitte übersetzen Sie die Rede, die Sie gehört haben, ins Englische.",
+        "<Speech><SpeechHere></Speech> Hören Sie sich die Rede an und übersetzen Sie sie ins Englische.",
+        "<Speech><SpeechHere></Speech> Geben Sie mir die englische Übersetzung dieser Rede."
+        
+    ],
+    "translation_en_ar": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into Arabic?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into Arabic.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into Arabic.",
+        "<Speech><SpeechHere></Speech> Give me the Arabic translation of this speech.",
+        "<Speech><SpeechHere></Speech> هل يمكنك ترجمة الكلام إلى اللغة العربية؟",
+        "<Speech><SpeechHere></Speech> يرجى ترجمة الكلام الذي سمعته إلى اللغة العربية.",
+        "<Speech><SpeechHere></Speech> استمع إلى الكلام وترجمه إلى اللغة العربية.",
+        "<Speech><SpeechHere></Speech> أعطوني الترجمة العربية لهذا الخطاب."
+
+    ],
+    "translation_ar_en": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into English?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into English.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into English.",
+        "<Speech><SpeechHere></Speech> Give me the English translation of this speech.",
+        "<Speech><SpeechHere></Speech> هل يمكنك ترجمة الكلام إلى اللغة الإنجليزية؟",
+        "<Speech><SpeechHere></Speech> يرجى ترجمة الخطاب الذي سمعته إلى اللغة الإنجليزية.",
+        "<Speech><SpeechHere></Speech> استمع إلى الخطاب وترجمه إلى اللغة الإنجليزية.",
+        "<Speech><SpeechHere></Speech> أعطني الترجمة الانجليزية لهذا الخطاب."
+
+    ],
+    "translation_en_id": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into Indonesian?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into Indonesian.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into Indonesian.",
+        "<Speech><SpeechHere></Speech> Give me the Indonesian translation of this speech.",
+        "<Speech><SpeechHere></Speech> Bisakah Anda menerjemahkan pidato tersebut ke dalam bahasa Indonesia?",
+        "<Speech><SpeechHere></Speech> Tolong terjemahkan pidato yang Anda dengar ke dalam bahasa Indonesia.",
+        "<Speech><SpeechHere></Speech> Dengarkan pidatonya dan terjemahkan ke dalam bahasa Indonesia.",
+        "<Speech><SpeechHere></Speech> Berikan saya terjemahan bahasa Indonesia dari pidato ini."
+
+    ],
+    "translation_id_en": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into English?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into English.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into English.",
+        "<Speech><SpeechHere></Speech> Give me the English translation of this speech.",
+        "<Speech><SpeechHere></Speech> Bisakah Anda menerjemahkan pidato tersebut ke dalam bahasa Inggris?",
+        "<Speech><SpeechHere></Speech> Harap terjemahkan pidato yang Anda dengar ke dalam bahasa Inggris.",
+        "<Speech><SpeechHere></Speech> Dengarkan pidatonya dan terjemahkan ke dalam bahasa Inggris.",
+        "<Speech><SpeechHere></Speech> Berikan saya terjemahan bahasa Inggris dari pidato ini."
+
+    ],
+    "translation_en_ja": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into Japanese?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into Japanese.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into Japanese.",
+        "<Speech><SpeechHere></Speech> Give me the Japanese translation of this speech.",
+        "<Speech><SpeechHere></Speech> このスピーチを日本語に翻訳してもらえますか？",
+        "<Speech><SpeechHere></Speech> あなたが聞いたスピーチを日本語に翻訳してください。",
+        "<Speech><SpeechHere></Speech> スピーチを聞いて日本語に翻訳してください。",
+        "<Speech><SpeechHere></Speech> このスピーチの日本語訳をください。"
+
+
+    ],
+    "translation_ja_en": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into English?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into English.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into English.",
+        "<Speech><SpeechHere></Speech> Give me the English translation of this speech.",
+        "<Speech><SpeechHere></Speech> そのスピーチを英語に翻訳してもらえますか？",
+        "<Speech><SpeechHere></Speech> P聞いたスピーチを英語に翻訳してください。",
+        "<Speech><SpeechHere></Speech> スピーチを聞いて英語に翻訳してください。",
+        "<Speech><SpeechHere></Speech> このスピーチの英語訳を教えてください。"
+
+
+    ],
+    "translation_en_tr": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into Turkish.",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into Turkish.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into Turkish.",
+        "<Speech><SpeechHere></Speech> Give me the Turkish translation of this speech.",
+        "<Speech><SpeechHere></Speech> Konuşmayı Türkçe'ye çevirebilir misiniz?",
+        "<Speech><SpeechHere></Speech> Lütfen duyduğunuz konuşmayı Türkçeye çevirin.",
+        "<Speech><SpeechHere></Speech> Konuşmayı dinleyin ve Türkçeye çevirin.",
+        "<Speech><SpeechHere></Speech> GBu konuşmanın Türkçe tercümesini bana verin."
+
+
+    ],
+    "translation_tr_en": [
+        "<Speech><SpeechHere></Speech> Can you translate the speech into English?",
+        "<Speech><SpeechHere></Speech> Please translate the speech you heard into English.",
+        "<Speech><SpeechHere></Speech> Listen to the speech and translate it into English.",
+        "<Speech><SpeechHere></Speech> Give me the English translation of this speech.",
+        "<Speech><SpeechHere></Speech> Konuşmayı İngilizce'ye çevirebilir misiniz?",
+        "<Speech><SpeechHere></Speech> Lütfen duyduğunuz konuşmayı İngilizce'ye çevirin.",
+        "<Speech><SpeechHere></Speech> Konuşmayı dinleyin ve İngilizceye çevirin.",
+        "<Speech><SpeechHere></Speech> Bu konuşmanın İngilizce tercümesini bana verin."
+
+
+    ],
+    "audiocaption": [
+        "<Speech><SpeechHere></Speech> Listen to this audio clip and provide its caption.",
+        "<Speech><SpeechHere></Speech> Describe the following audio in a caption.",
+        "<Speech><SpeechHere></Speech> Based on the sound you hear, create a caption for this audio.",
+        "<Speech><SpeechHere></Speech> Can you describe the scene or event depicted in this audio?",
+        "<Speech><SpeechHere></Speech> Could you summarise what's happening in this audio?",
+        "<Speech><SpeechHere></Speech> What does this audio describe?",
+        "<Speech><SpeechHere></Speech> Please describe the audio."
+    ],
+    "audiocaption_v2": [
+        "<Speech><SpeechHere></Speech> Please write down what your hear in the audio."
+    ],
+    "mt_en": [
+        "Can you translate the text into English: {}",
+        "Can you translate the text into English please: {}",
+        "Please translate the text into English: {}"
+    ],
+    "QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_fr": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_nl": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_tr": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_de": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_zh": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "QA_ja": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "inference_QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "gender_QA": [
+        "<Speech><SpeechHere></Speech> {}"
+    ],
+    "gender_recognition": [
+        "<Speech><SpeechHere></Speech> What is the gender of the speaker?",
+        "<Speech><SpeechHere></Speech> Use one word to describe the speaker's gender.",
+        "<Speech><SpeechHere></Speech> Describe the speaker's gender.",
+        "<Speech><SpeechHere></Speech> Can you accurately identify the gender of the speaker?",
+        "<Speech><SpeechHere></Speech> Can you distinguish the gender of the speaker?",
+        "<Speech><SpeechHere></Speech> Describe the gender of the person speaking.",
+        "<Speech><SpeechHere></Speech> What is the speaker's gender based on the audio?",
+        "<Speech><SpeechHere></Speech> Tell me about the gender of the person you hear.",
+        "<Speech><SpeechHere></Speech> Is the speaker male or female?"
+    ],
+    "phone_recognition": [
+        "<Speech><SpeechHere></Speech> Please transcribe the audio clip into its corresponding phonetic representation.",
+        "<Speech><SpeechHere></Speech> Write the sequence of phonemes corresponding to this speech.",
+        "<Speech><SpeechHere></Speech> Provide the phonetic transcription for the speech.",
+        "<Speech><SpeechHere></Speech> Transcribe the phonemes for the speech please.",
+        "<Speech><SpeechHere></Speech> Can you recognize the phonetic representation in the speech?",
+        "<Speech><SpeechHere></Speech> Listen to the speech and recognize its phonetic representation",
+        "<Speech><SpeechHere></Speech> What is the phoneme transcription of the speech?"
+    ],
+    "speech_separation": [
+        "<Speech><SpeechHere></Speech> There are two people talking in the audio, please write what they say in order.",
+        "<Speech><SpeechHere></Speech> Please write down what you hear each person says.",
+        "<Speech><SpeechHere></Speech> Can you record what each person says?",
+        "<Speech><SpeechHere></Speech> Transcribe the words spoken by each person in the audio."
+    ],
+    "emotion_recognition": [
+        "<Speech><SpeechHere></Speech> Describe the emotion of the speaker in one word.",
+        "<Speech><SpeechHere></Speech> Use one word to describe the speaker's emotion."
+    ],
+    "music_description": [
+        "<Speech><SpeechHere></Speech> Listen to this music clip and describe the music.",
+        "<Speech><SpeechHere></Speech> Please describe the music.",
+        "<Speech><SpeechHere></Speech> Provide a description of the music.",
+        "<Speech><SpeechHere></Speech> Analyze the music in this clip and offer a description.",
+        "<Speech><SpeechHere></Speech> Give me a description of the music in this clip."
+    ],
+    "speaker_verification": [
+        "<Speech><SpeechHere></Speech> Are the two people speaking successively the same person? Answer yes or no.",
+        "<Speech><SpeechHere></Speech> Do you only hear the same person talking? Answer yes or no.",
+        "<Speech><SpeechHere></Speech> Is only one person speaking in the audio? Answer yes or no."
+    ],
+    "audio_story_telling": [
+        "<Speech><SpeechHere></Speech> Based on the audio, write a story in detail. Your story should be highly related to the audio.",
+        "<Speech><SpeechHere></Speech> Please write a story in detail based on the audio. Your story should contain all the elements in the audio.",
+        "<Speech><SpeechHere></Speech> Please generate a long story that is highly related to the audio."
+    ],
+    "speaker_diarization_asr": [
+        "<Speech><SpeechHere></Speech> Identify each speaker in turn and what is said.",
+        "<Speech><SpeechHere></Speech> Write down the content of each speaker and the corresponding speech in turn.",
+        "<Speech><SpeechHere></Speech> Please recognize each speaker and transcribe their speech content."
+    ]
+}
